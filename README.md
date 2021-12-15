@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando JavaScript
 - 🌱 Graduando em Ciência da Computação
-- 👯 Pronomes ele/dele...
+- 🙅 Pronomes ele/dele...
 
 <div align="center">
   <a href="https://github.com/Rafael-vvsantos">
